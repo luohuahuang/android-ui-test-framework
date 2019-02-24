@@ -34,4 +34,5 @@ How To
 * Submit a merge request, and provide your .html test result, and assign to Luohua
 
 ## When all else fails
-* Any questions please contact huanglh@xxx.com
+* https://luohuahuang.org/2019/02/24/android-client-ui-automation-tips/
+* Any questions please contact luohua.huang@gmail.com
