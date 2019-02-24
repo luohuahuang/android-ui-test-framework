@@ -1,0 +1,6 @@
+Appium-Python-Client
+pytest
+selenium
+pytest-html
+numpy
+pytest-rerunfailures
